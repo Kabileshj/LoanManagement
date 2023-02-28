@@ -1,8 +1,10 @@
 com\Loan\repo\LoansRepository.class
+com\Loan\config\SwaggerConfig.class
 com\Loan\Application.class
 com\Loan\config\HikariIntegrationTest.class
 com\Loan\delegate\RepayLoan.class
 com\Loan\dao\Loans.class
+com\Loan\controller\LoanController.class
 com\Loan\delegate\CreateLoan.class
 com\Loan\config\JpaConfig.class
 com\Loan\delegate\GetLoanDetails.class
